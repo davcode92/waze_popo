@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/waze_popo/static/css/main.904763e4.css",
+    "main.js": "/waze_popo/static/js/main.20d9840c.js",
+    "index.html": "/waze_popo/index.html",
+    "main.904763e4.css.map": "/waze_popo/static/css/main.904763e4.css.map",
+    "main.20d9840c.js.map": "/waze_popo/static/js/main.20d9840c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904763e4.css",
+    "static/js/main.20d9840c.js"
+  ]
+}
